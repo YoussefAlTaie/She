@@ -1,0 +1,13 @@
+{
+  "name": "discord-voice-client",
+  "version": "1.0.0",
+  "description": "Discord voice client for staying connected to voice channels",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
